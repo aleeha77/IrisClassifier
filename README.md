@@ -1,36 +1,15 @@
+Iris Flower Classifier
+This project uses machine learning to identify the species of an Iris flower based on its physical features.
 
-````markdown
-# Iris Flower Classifier
+I trained a Logistic Regression model on the Iris dataset, which predicts if a flower is Setosa, Versicolor, or Virginica.
 
-This project trains a machine learning model to classify Iris flower species based on their physical features. The model uses **Logistic Regression** (or SVM) implemented with **Scikit-learn**.
+You’ll also find some basic data visualization in the project to understand the dataset better.
 
-## Features
-- Trains on the famous Iris dataset
-- Predicts species: Setosa, Versicolor, Virginica
-- Includes data visualization with **matplotlib**
-- (Optional) Streamlit UI for user-friendly predictions
+I added an optional Streamlit app so anyone can try predicting flower species with a simple web interface.
 
-## Tech Stack
-- Python
-- Scikit-learn
-- Pandas
-- Matplotlib
-- Streamlit (optional)
+If you want to run it yourself, just install the required packages from requirements.txt and run streamlit run app.py.
 
-## How to run
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-````
 
-2. Run the Streamlit app:
 
-   ```bash
-   streamlit run app.py
-   ```
-
-## Author
-
-Aleeha
-[GitHub Profile](https://github.com/aleeha77)
-
+Hi, I’m Aleeha, an AI student passionate about machine learning and full-stack development.
+Feel free to connect with me on GitHub : https://github.com/aleeha77
