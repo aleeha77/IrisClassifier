@@ -1,4 +1,4 @@
-Iris Flower Classifier
+# Iris Flower Classifier
 This project uses machine learning to identify the species of an Iris flower based on its physical features.
 
 I trained a Logistic Regression model on the Iris dataset, which predicts if a flower is Setosa, Versicolor, or Virginica.
